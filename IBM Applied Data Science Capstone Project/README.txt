@@ -1,1 +1,0 @@
-This is the final project in the 10-course IBM Data Science profession certificate. It involved using the SpaceX launch data to complete various analysis projects that include data collecting, webscraping, data wrangling, data analysis using SQL, data visualization, folium, creating a dashboard app, and machine learning.
