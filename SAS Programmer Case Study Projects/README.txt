@@ -1,1 +1,0 @@
-These are the final case study projects for the 4-course SAS Programmer Professional certificate which is meant to prepare the student for the SAS Base Programming Specialist performance-based exam. Using SAS, the two case study projects consist of accessing data, exploring data, preparing data, analyzing data, and exporting data.
