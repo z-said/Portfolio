@@ -1,0 +1,17 @@
+Change Log
+Project: Case Study - Cyclistic Data
+Name: Zamir Said
+Date: 2023-09-15
+
+
+1. Uploaded CSV file, 2023-trip-data.csv, to Rstudio Cloud.
+
+2. Imported data into dataframe called jan_2023.
+
+3. Removed the following columns: start_lat, start_lng, end_lat, end_lng.
+
+4. Added column for date, day, and day of week using the date value contained in the started_at column.
+
+5. Added ride_length column by subtracting the time in the started_at column from the time in the ended_at column.
+
+6. Converted ride_length column from factor datatype to numeric datatype.
